@@ -1,0 +1,62 @@
+<gretldata version="1.4" name="dane zajęcia 9" frequency="1" startobs="1" endobs="30" type="cross-section">
+
+<variables count="10">
+<variable name="cena" label="cena noclegu dla 2 osób w zł"/>
+<variable name="centrum" label="odległość od centrum [m]"/>
+<variable name="zamek" label="odległość od Zamku Królewskiego [m]"/>
+<variable name="lazienki" label="odległość od Łazienek Królewskich [m]"/>
+<variable name="opinie" label="liczba opinii na booking.com"/>
+<variable name="rating" label="ocena gości na booking.com"/>
+<variable name="powierzchnia" label="metry kwadratowe"/>
+<variable name="parking" label="1:bezpłatny parking"/>
+<variable name="toaleta" label="1:dostępność łazienki w pokoju"/>
+<variable name="zwierzeta" label="1:zwierzęta domowe są akceptowane"/>
+</variables>
+<observations count="45" labels="false">
+<obs>190 1000 1600 3200 1862 8.5 26 0 1 0 </obs>
+<obs>119 10100 11000 7700 923 8.3 30 1 1 0 </obs>
+<obs>139 250 2300 2100 162 7.8 22 0 1 0 </obs>
+<obs>205 1500 3300 3600 1164 9.2 34 1 1 1 </obs>
+<obs>259 7000 8300 4800 695 8.4 34 1 1 0 </obs>
+<obs>119 6400 8000 8000 805 7.5 20 1 1 0 </obs>
+<obs>200 650 1500 2600 1280 8.3 38 0 1 0 </obs>
+<obs>256 2500 3100 1200 255 7.9 40 1 1 0 </obs>
+<obs>258 2200 1600 2500 4505 8.3 17 1 1 1 </obs>
+<obs>190 2800 1300 4800 5323 8.3 18 1 1 1 </obs>
+<obs>186 800 1700 2100 699 7.6 25 0 0 1 </obs>
+<obs>85 2000 3600 4300 129 8.6 16 1 1 1 </obs>
+<obs>180 6000 5600 5400 2843 8.3 20 1 1 1 </obs>
+<obs>199 5000 7600 5800 1730 9.2 32 1 1 1 </obs>
+<obs>200 700 1500 2400 5369 7.9 15 0 1 1 </obs>
+<obs>110 5000 7200 3400 3450 7.7 18 1 1 1 </obs>
+<obs>170 8000 10700 7300 1830 8.8 25 1 1 1 </obs>
+<obs>247 5000 7200 4500 1140 9.3 25 1 0 0 </obs>
+<obs>279 1400 2500 3800 7 9.2 39 1 1 0 </obs>
+<obs>232 7000 5500 1100 1101 8.3 20 1 1 0 </obs>
+<obs>178 800 1300 2800 1680 8.6 16 0 0 1 </obs>
+<obs>270 4000 6900 3700 1534 9.1 37 0 1 1 </obs>
+<obs>200 700 1500 2400 5369 7.9 15 0 1 1 </obs>
+<obs>119 9000 11000 7700 923 8.3 20 1 1 0 </obs>
+<obs>299 1000 1300 2400 2045 9.1 30 1 1 1 </obs>
+<obs>140 3000 3800 2000 588 7 17 1 0 0 </obs>
+<obs>279 3000 2700 5800 1458 8.7 30 1 1 1 </obs>
+<obs>280 3000 2300 5300 771 7.9 24 1 1 0 </obs>
+<obs>259 7000 8300 4800 695 8.4 34 1 1 0 </obs>
+<obs>258 1000 2300 3500 4244 8.7 23 1 1 1 </obs>
+<obs>295 3000 1900 5300 589 7 42 1 1 0 </obs>
+<obs>219 650 1700 2800 213 7.3 23 0 1 0 </obs>
+<obs>180 400 1800 2200 2812 8 38 1 1 0 </obs>
+<obs>160 8000 10200 6800 1134 8.2 30 1 1 0 </obs>
+<obs>230 1000 2300 3400 1687 8.7 43 0 1 1 </obs>
+<obs>292 6000 8300 5300 1283 9.2 24 0 1 1 </obs>
+<obs>189 7000 6900 6300 905 8.6 28 1 1 0 </obs>
+<obs>258 10000 11100 8300 3438 9 37 0 1 1 </obs>
+<obs>90 4100 1900 4900 5 9.2 15 1 0 0 </obs>
+<obs>200 4000 6200 4600 1606 8.9 21 0 1 0 </obs>
+<obs>239 6000 8100 5200 4739 9.1 25 1 1 1 </obs>
+<obs>180 6000 5600 5400 2843 8.3 20 1 1 1 </obs>
+<obs>220 1000 3000 3100 3034 7.7 23 1 1 1 </obs>
+<obs>330 1000 2500 3600 618 8 35 0 1 1 </obs>
+<obs>190 2000 1300 4800 5323 8.3 18 0 1 1 </obs>
+</observations>
+</gretldata>
