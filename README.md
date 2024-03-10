@@ -16,7 +16,7 @@ After conducting the research, we can verify the truth of the research hypothese
 3) The better the user rating on the website, the more expensive the accommodation. TRUE
 4) The closer to the Royal Castle, the more expensive the accommodation. TRUE
 
-3. Final Model
+4. Final Model
 
 \[y = -64.19 + 24.26x_1 + 2.92x_2 + \epsilon\]
 
