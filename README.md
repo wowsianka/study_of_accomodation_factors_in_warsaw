@@ -18,11 +18,11 @@ After conducting the research, we can verify the truth of the research hypothese
 
 4. Final Model
 
-\[y = -64.19 + 24.26x_1 + 2.92x_2 + \epsilon\]
+y = -64.19 + 24.26 * x1 + 2.92 * x2 + ε
 
 where:
 - \(x_1\): user rating
 - \(x_2\): apartment area
 
-This means that an increase in the user rating on bookin.com by 1 unit results in an increase in the accommodation price by 24.3 PLN, and with each \(m^2\) of apartment area, the price of accommodation in Warsaw increases by 3 PLN. Surprisingly, the availability of a bathroom in the room and free parking turned out to be insignificant.
+This means that an increase in the user rating on booking.com by 1 unit results in an increase in the accommodation price by 24.3 PLN, and with each \(m^2\) of apartment area, the price of accommodation in Warsaw increases by 3 PLN. Surprisingly, the availability of a bathroom in the room and free parking turned out to be insignificant.
 The conducted study shows the relationships between the factors that we take into account when choosing a place to stay and the cost of accommodation.
